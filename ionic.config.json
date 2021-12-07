@@ -1,0 +1,7 @@
+{
+  "name": "line",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
